@@ -63,7 +63,7 @@
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Promptaro <sub><i>(coming soon)</i></sub></h3>
+      <h3>⚡ Promptaro <sub><i>Shikshonnati</i></sub></h3>
       A desktop app for AI-powered chats, coding and agent tasks. It picks the right model for every message, uses free models first, and lets coding agents work on their own branch until you review and merge.<br><br>
       <img alt="macOS | Windows | Linux" src="https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux-desktop-455a64?style=flat-square">
       <img alt="Free first" src="https://img.shields.io/badge/free%20models-first-bf4b00?style=flat-square">
